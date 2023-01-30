@@ -1,0 +1,241 @@
+ /*common*/
+
+
+.container{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+}
+.subContainer{
+    margin-left: 120px;
+ 
+}
+
+ /*Cours page*/
+.label{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    
+}
+.label1{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.label3{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 75px;
+    margin-bottom: 10px;
+    margin-top:79px
+}
+
+.container .f1 input[type=text]{
+    width: 600px;
+    height:55px;
+    border-radius:20px;
+    
+    border: 2px solid yellow;
+    outline: none;
+    padding: 7px 10%;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 20px #DCE006;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+   
+}
+
+
+
+
+
+.container .f2 input[type=text]{
+    width: 600px;
+    height:190px;
+
+    border-radius:20px;
+    border: 2px solid yellow;
+    outline: none;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 20px #DCE006;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+
+}
+
+
+
+
+   
+
+.select {
+    width: 600px;
+    height:0px;
+    border-radius:20px;
+    outline: none;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+  }
+  
+  .select select {
+    color: lightslategray;
+    padding: 12px;
+    width: 600px;
+    height:50px;
+    border-radius:20px;
+    border: 2px solid yellow;
+    font-size: 14px;
+    box-shadow: 4px 4px 20px #DCE006;
+    -webkit-appearance: button;
+    appearance: button;
+    outline: none;
+  } 
+
+  .checkbox{
+    margin-bottom:20px ;
+    margin-top: 10px;
+    margin-left: 76px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  /*qaund page*/
+
+  .container .f1 input[type=date]{
+    width: 600px;
+    height:55px;
+    border-radius:20px;
+    
+    border: 2px solid yellow;
+    outline: none;
+    padding: 7px 10%;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 20px #DCE006;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+   
+}
+
+
+.container .f1 input[type=date]{
+    width: 600px;
+    height:55px;
+    border-radius:20px;
+    
+    border: 2px solid yellow;
+    outline: none;
+    padding: 7px 10%;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 20px #DCE006;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+   
+}
+  
+.labeljours{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 75px;
+    margin-bottom: 10px;
+    margin-top:  30px;
+}
+
+
+  /*Prix page*/
+
+
+.container .prix input[type=number]{
+    width: 300px;
+    height:55px;
+    border-radius:20px;
+    
+    border: 2px solid yellow;
+    outline: none;
+    padding: 7px 10%;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 20px #DCE006;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px
+   
+}
+
+.subContainerPrix{
+    margin-left: 240px;
+ 
+}
+
+
+
+ /*Lieu page*/
+
+
+
+.checkboxx{
+    margin-bottom:20px ;
+    margin-top: 10px;
+    margin-left: 200px;
+    
+    
+  }
+.checkboxx [type=checkbox]{
+    margin-bottom:20px ;
+    margin-top: 10px;
+    margin-left: 76px;
+    height:1.5em;
+width:1.5em;
+cursor:pointer;
+position:relative;
+row-gap: 80px;
+border-radius:4em;
+background-color:red;
+
+}
+
+.labellieu{
+    font-weight: bold;
+    font-size: 14px;
+
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+    width: 400px;
+    height:55px;
+    border-radius:20px;
+    
+    border: 2px solid yellow;
+    outline: none;
+    padding: 7px 10%;
+    margin-left: -80px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 20px #DCE006;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px
+}
+
+
+

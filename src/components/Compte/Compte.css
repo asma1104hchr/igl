@@ -1,0 +1,252 @@
+.head{
+   margin-top: -65px;
+    margin-left: -40px;
+ 
+}
+
+
+.bloc{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.holder{
+    margin-top: 140px;
+    height: 800px;
+    width: 35%;
+    box-shadow: -8px -8px 60px rgb(111, 120, 111);
+    border-radius: 90px;
+    margin-left: -20px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+    background-image: linear-gradient(rgb(92, 210, 92), white, rgb(236, 236, 176));
+}
+
+
+.profile-pic-div img{
+    height: 200px;
+    background: cover;
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    height: 100vh;
+    width :100%;
+}
+
+.user{
+    position: absolute;
+    left: 13%;
+    margin-top: 16%;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+.profile-pic-div{
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    margin-left: 195px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid green;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+
+#photo{
+    height: 100%;
+    width: 100%;
+    background: cover;
+}
+#file{
+    display: none;
+}
+#uploadBtn{
+    height: 40px;
+    width:100%;
+    position:absolute;
+    bottom: 0;
+    text-align: center;
+    background: rgba(0,0,0,0.7);
+    color: rgb(187, 178, 161);
+    line-height: 30px;
+    font-family: sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.subContainer2{
+    margin-left: 400px;
+ 
+}
+
+ /*Cours page*/
+.label{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+
+.nav_list{
+    padding-top: 290px;
+
+    
+}
+.nav_item a {
+    font-weight: 100;
+    font-size: 1.3rem;
+    text-decoration: none;
+    padding: 22px;
+    padding-left: 95px;
+    display: flex;
+    align-items: center;
+    column-gap:3rem;
+    color:lightslategrey;
+}
+.nav_item li {
+    display: inline-block;
+    margin-top: 33px;
+}
+
+
+.icon{
+    width: 30px;
+    height: 40px;
+    margin-top: -59px;
+    margin-left: 35px;
+    
+}
+.bar{
+    margin-top: -330px;
+    height: 80px;
+    width: 15px;
+    box-shadow: -8px -8px 60px rgb(111, 120, 111);
+    border-radius: 90px;
+    margin-left: 345px;
+    background-color: yellow;
+}
+
+.holder21{
+    margin-top: 150px;
+    height: 800px;
+    width: 60%;
+    background-image: linear-gradient( rgb(236, 236, 176),white,rgb(92, 210, 92));
+    box-shadow: -8px -8px 60px rgb(111, 120, 111);
+    border-radius:90px;
+}
+
+.holder21 .information{
+    margin-top: -37px;
+    margin-left: 50px;
+    
+}
+.holder21 .information .info1{
+    width:400px;
+    height:40px;
+    border-radius:15px;
+    border: 2px solid yellow;
+    outline: none;
+    padding: 19px ;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 20px #DCE006;
+}
+.holder21 .information .info2{
+    width:400px;
+    height:40px;
+    border-radius:15px;
+    border: 2px solid yellow;
+    outline: none;
+    padding: 19px ;
+    margin-top: 10px;
+    margin-left: 36px;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 20px #DCE006;
+}
+.holder21 .information .info3{
+    width:  328px;
+    height:40px;
+    border-radius:15px;
+    border: 2px solid yellow;
+    outline: none;
+    padding: 19px ;
+    margin-top: 10px;
+    margin-left: 36px;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 20px #DCE006;
+}
+.holder21 .information .info4{
+    width:  328px;
+    height:40px;
+    border-radius:15px;
+    border: 2px solid yellow;
+    outline: none;
+    padding: 19px ;
+    margin-top: 10px;
+    margin-left: 67px;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 20px #DCE006;
+}
+
+.holder21 .information .info5{
+    width:  328px;
+    height:40px;
+    border-radius:15px;
+    border: 2px solid yellow;
+    outline: none;
+    padding: 19px ;
+    margin-top: 10px;
+    margin-left: 67px;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 20px #DCE006;
+}
+
+
+
+
+.holder21 h2{
+    font-weight: 10;
+    line-height: 40px;
+    font-size: 35px;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.underline2{
+    width: 410px;
+    display: flex;
+    margin-left: 125px;
+    margin-top: -40px;
+    margin-bottom: 100px;
+    height: 36px;
+    background-color: #DCE006;
+
+}
+

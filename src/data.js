@@ -1,0 +1,34 @@
+export const data=[
+    {
+        id:1,
+        img:'https://unsplash.com/fr/photos/6G6akT8biLg',
+    },
+    {
+        id:2,
+        img:'https://unsplash.com/fr/photos/8m8j51N07J0',
+    },
+    {
+        id:3,
+        img:'https://unsplash.com/fr/photos/8m8j51N07J0',
+    },
+    {
+        id:4,
+        img:'https://unsplash.com/fr/photos/8m8j51N07J0',
+    },
+    {
+        id:5,
+        img:'https://unsplash.com/fr/photos/8m8j51N07J0',
+    },
+    {
+        id:6,
+        img:'https://unsplash.com/fr/photos/8m8j51N07J0',
+    },
+    {
+        id:7,
+        img:'https://unsplash.com/fr/photos/8m8j51N07J0',
+    },
+    {
+        id:8,
+        img:'https://unsplash.com/fr/photos/8m8j51N07J0',
+    },
+]

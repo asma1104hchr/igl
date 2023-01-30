@@ -1,0 +1,50 @@
+
+
+
+.cart1{
+    box-shadow: 0px 4px 10px #1B9D91;
+    border-radius: 25px;    
+    width: 300px;  
+    height: 300px;
+    padding:20px 20px 20px 20px;
+    margin-left: 40px;
+    margin-right: 70px;
+    
+    
+}
+
+
+.cart2{
+box-shadow: 0px 4px 10px  #DCE006;
+border-radius: 25px;    
+width: 300px;  
+height: 300px;
+padding:20px 20px 20px 20px;
+margin-right: 70px;
+
+}
+.cart3{
+box-shadow: 0px 4px 10px #1B9D91;
+border-radius: 25px;    
+width: 300px;  
+height: 300px;
+padding:20px 20px 20px 20px;
+background-color: white;
+float: Right;
+}
+
+.cardy .cards3 img{
+    width: 100%;
+    margin-top:-45px ;
+    margin-left: 50px;
+}
+.cardy .cards2 img{
+    width: 110%;
+    margin-top:-50px ;
+    margin-left: 80px;
+}
+.cardy .cards1 img{
+    width: 100%;
+    margin-top:-45px ;
+    margin-left: 145px;
+}

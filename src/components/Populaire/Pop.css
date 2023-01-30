@@ -1,0 +1,25 @@
+.article{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+
+.article h2{ 
+    font-weight: 600;
+    line-height: 55px;
+    font-size: 30px;
+    text-decoration: none;
+    position: relative;
+}
+
+.underlines{
+    width: 200px;
+    display: flex;
+    margin-left: 450px;
+    margin-top: -42px;
+    margin-bottom: 90px;
+    height: 20px;
+    background-color: #DCE006;
+
+}
